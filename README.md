@@ -1,2 +1,2 @@
 # qmrg.github.io
-Website for Quantitative Methods Research Group
+Website for the RGS-IBG Quantitative Methods Research Group
