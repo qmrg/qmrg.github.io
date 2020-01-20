@@ -1,2 +1,4 @@
 name: Quantitative Methods Research Group
 markdown: kramdown
+
+theme: jekyll-theme-slate
