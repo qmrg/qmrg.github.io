@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 markdown: kramdown
 title: QMRG
 description: The official website of the RGS-IBG Quantitative Methods Research Group.
