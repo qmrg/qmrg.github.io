@@ -1,2 +1,3 @@
-# qmrg.github.io
-Website for the RGS-IBG Quantitative Methods Research Group
+# opensource.twitter.com
+
+Home of opensource.twitter.com
