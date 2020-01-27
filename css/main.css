@@ -38,6 +38,10 @@ ul.posts {
     font-size: 1.5em;
 }
 
+.twitter-timeline {
+    width: 100vw !important;
+}
+
 ul.posts li {
     list-style: none;
 }
