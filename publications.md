@@ -3,6 +3,8 @@ layout: default
 title: "Publications"
 ---
 
+# Publications
+
 We occassionally write short reports and publications on the state of Quantitative Methods in Geography. These include:
 
 [Quantitative Methods in Geography: Making the Connections between Schools, Universities and Employers](https://www.researchgate.net/publication/256191493_Quantitative_Methods_in_Geography_Making_the_Connections_between_Schools_Universities_and_Employers)
