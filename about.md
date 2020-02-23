@@ -6,3 +6,4 @@ Membership of the QMRG is open to all Fellows (including Associate Fellows) of t
  	
 Follow our latest news either via [Twitter](https://twitter.com/qmrg_rgs_ibg) or joining our [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=QUANT-GEOG&A=1) (archives of all posts can be [viewed here](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=QUANT-GEOG). Current activities and announcements will also be made via our blog.
 
+The most current QMRG Constitution can be downloaded [here](https://alexsingleton.files.wordpress.com/2014/09/constitution_2001.pdf).
