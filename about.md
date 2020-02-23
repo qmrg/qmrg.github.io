@@ -1,3 +1,8 @@
+---
+layout: default
+title: "About"
+---
+
 # About
 
 The Quantitative Methods Research Group (QMRG) is one of a number of Speciality Research Groups of the RGS-IBG. These Research and Study Groups bring together Society Fellows who are active researchers and those with a professional interest in a particular aspect of geography. The QMRG exists to promote the application of quantitative methods in Geography. It encompasses research across a broad range of topics in statistics and general quantitative modelling approaches. The QMRG has an extensive history which you can read about [here](https://quantile.info/qmrg-history/).
