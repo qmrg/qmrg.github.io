@@ -1,10 +1,17 @@
 # Committee
 
-Chair: Dani Arribas-Bel (University of Liverpool)
-Secretary: Alistair Geddes (University of Dundee)
-Treasurer: Levi John Wolf (University of Bristol)
-Diversity and Inclusion Officer: Caitlin Robinson (University of Newcastle)
-Conferences Officer: Emmanouil Tranos (University of Birmingham)
-Dissertation Prize Officer: Roberto Santos (University of Nottingham)
-Social Media/Web Officer: Mark Green (University of Liverpool)
-Postgraduate Representative: Currently open
+**Chair**: [Dani Arribas-Bel (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/daniel-arribas-bel/)
+
+**Secretary**: [Alistair Geddes (University of Dundee)](https://www.dundee.ac.uk/people/alistair-geddes)
+
+**Treasurer**: [Levi John Wolf (University of Bristol)](http://www.bris.ac.uk/geography/people/levi-j-wolf/index.html)
+
+**Diversity and Inclusion Officer**: [Caitlin Robinson (University of Newcastle)](https://www.ncl.ac.uk/gps/staff/profile/caitlinrobinson.html#background)
+
+**Conferences Officer**: [Emmanouil Tranos (University of Bristol)](http://www.bristol.ac.uk/geography/people/emmanouil-tranos/index.html)
+
+**Dissertation Prize Officer**: [Roberto Santos (University of Nottingham)](https://scholar.google.com/citations?user=OiisfSgAAAAJ&hl=en)
+
+**Social Media/Web Officer**: [Mark Green (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
+
+**Postgraduate Representative**: Currently open
