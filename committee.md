@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Committee"
+---
+
 # Committee
 
 **Chair**: [Dani Arribas-Bel (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/daniel-arribas-bel/)
