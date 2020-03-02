@@ -19,4 +19,4 @@ title: "Committee"
 
 **Social Media/Web Officer**: [Mark Green (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
 
-**Postgraduate Representative**: Currently open
+**Postgraduate Representative**: [Rachael Sanderson, Newcastle University](https://research.ncl.ac.uk/geospatial-systems/phdresearchers/phd-rachaelsanderson.html)
