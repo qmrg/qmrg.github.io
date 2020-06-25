@@ -8,8 +8,8 @@ The QMRG offers a prize for the best undergraduate dissertation that engages wit
 
 Please note that entries are limited to undergraduate dissertations from UK higher education institutions. They should be submitted with the student’s agreement and by an appropriate member of staff (normally the Head of Department or appointed representative).  Each institution is limited to a single entry.
 
-Please see full details at https://www.rgs.org/research/research-groups/research-groups-dissertation-prizes/
+Please see full details [here](https://www.rgs.org/research/research-groups/research-groups-dissertation-prizes/)
 
-To submit an entry please email a copy of the dissertation without any indication of awarded mark to : Dr Alistair Geddes (a.y.geddes@dundee.ac.uk). 
+To submit an entry please email a copy of the dissertation without any indication of awarded mark to Dr Alistair Geddes ([email](a.y.geddes@dundee.ac.uk)). 
 
 Deadline: **14 July 2020**
