@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2020 Dissertation Prize"
-date: 2020-02-23
+date: 2020-06-25
 ---
 
 Every year the Quantitative Methods Research Group offers a prize for the best undergraduate dissertation that engages with quantitative geography. The call for entries for the 2020 prize is now open. 
