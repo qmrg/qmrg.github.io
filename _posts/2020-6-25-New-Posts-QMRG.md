@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Openings on the QMRG Committee"
-date: 2020-02-23
+date: 2020-06-25
 ---
 
 We are now seeking nominations for two following openings on the QMRG committee in order to replace current post-holders who are completing their terms:
