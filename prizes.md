@@ -13,6 +13,8 @@ Here is a list of past winners of the prize.
 
 Winner: David Verry, University of Bristol - “The influence of hostile destination attitudes on migration in Europe: a gravity model analysis”.
 
+[Bio](https://qmrg.github.io/blog/2020/11/03/Verry_bio)
+
 **2018**
 
 Winner: Simon Herd, University of Manchester – “Reef island stability under rising sea levels? Assessing the eco-morphodynamics of a lagoonal platform island in the South Maldives”.
