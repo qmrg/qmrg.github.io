@@ -9,6 +9,12 @@ We run an annual dissertation prize open to any undergraduate dissertation that 
 
 Here is a list of past winners of the prize.
 
+**2020**
+
+Winner: Christiane Spring, University of Bristol - “The Polluted Brain: Logistic regression analysis of the association between atmospheric pollution and Alzheimer’s disease in the South West of England”.
+
+Runner up: Philip Cowley, University of York - "Comparing the effects of turbine arrays and climate change on future marine species distributions".
+
 **2019**
 
 Winner: David Verry, University of Bristol - “The influence of hostile destination attitudes on migration in Europe: a gravity model analysis”.
