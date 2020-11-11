@@ -19,4 +19,4 @@ title: "Committee"
 
 **Social Media/Web Officer**: [Mark Green (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
 
-**Postgraduate Representatives**: [Rachael Sanderson (Newcastle University)](https://research.ncl.ac.uk/geospatial-systems/phdresearchers/phd-rachaelsanderson.html) and [Patrick Ballantyne](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
+**Postgraduate Representatives**: [Rachael Sanderson (Newcastle University)](https://research.ncl.ac.uk/geospatial-systems/phdresearchers/phd-rachaelsanderson.html) and [Patrick Ballantyne (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
