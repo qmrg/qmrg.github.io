@@ -13,7 +13,7 @@ Here is a list of past winners of the prize.
 
 Winner: Christiane Spring, University of Bristol - “The Polluted Brain: Logistic regression analysis of the association between atmospheric pollution and Alzheimer’s disease in the South West of England”.
 
-[Bio](https://qmrg.github.io/blog/2020/11/10/bio_spring)
+[Bio](https://qmrg.github.io/blog/2020/11/10/bio-spring)
 
 Runner up: Philip Cowley, University of York - "Comparing the effects of turbine arrays and climate change on future marine species distributions".
 
