@@ -15,7 +15,7 @@ Winner: Christiane Spring, University of Bristol - “The Polluted Brain: Logist
 
 [Bio](https://qmrg.github.io/blog/2020/11/10/bio-spring)
 
-Runner up: Philip Cowley, University of York - "Comparing the effects of turbine arrays and climate change on future marine species distributions".
+Runner up: Philip Cowing, University of York - "Comparing the effects of turbine arrays and climate change on future marine species distributions".
 
 **2019**
 
