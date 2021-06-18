@@ -18,3 +18,4 @@ We are particularly interested in supporting applications that will help diversi
 All committee positions normally have a 3-year term. Ideally post-holders will be fellows of the Royal Geographical Society. 
 
 A full list of current committee positions and members can be viewed [here](https://qmrg.github.io/committee).
+
