@@ -6,8 +6,8 @@ date: 2021-06-18
 
 We are happy to announce that we are seeking nominations for two positions on the QMRG committee in order to replace current post-holders who are completing their terms. Specifically:
 
-* Secretary - Main responsibilities include organising monthly QMRG meetings, liaising with RGS-IBG, and disseminating resources among group members.
-* Dissertation Prize - responsible for co-ordinating the annual undergraduate dissertation competition (see above), including advertising the competition, collating submissions, arranging judging. The post-holder will also contribute to the general running of the group. Previous winners of the dissertation prize can be seen [here](https://qmrg.github.io/prizes).
+* **Secretary** - Main responsibilities include organising monthly QMRG meetings, liaising with RGS-IBG, and disseminating resources among group members.
+* **Dissertation Prize Officer** - responsible for co-ordinating the annual undergraduate dissertation competition (see above), including advertising the competition, collating submissions, arranging judging. The post-holder will also contribute to the general running of the group. Previous winners of the dissertation prize can be seen [here](https://qmrg.github.io/prizes).
 
 **Deadline for submissions:** 16:00 GMT 27th August 2021
 
