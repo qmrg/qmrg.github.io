@@ -16,7 +16,7 @@ Responsible for co-ordinating the annual undergraduate dissertation competition 
 
 Nominations for the two available positions may include self-nominations and should be sent along with the name of a seconder and a brief statement of suitability. Please send any questions and nominations to both the QMRG Chair Dr Dani Arribas-Bel (email: d.arribas-bel@liverpool.ac.uk) and QMRG secretary Dr Alistair Geddes (email: A.Y.Geddes@dundee.ac.uk). A vote will take place on each new committee appointment at the 2021 QMRG Annual General Meeting (date to be confirmed, but will be early September).
 
-We are particularly interested in supporting applications that will help diversify the group. If you would like to informally discuss any of the equality, diversity and inclusivity issues related to the positions, please get in contact with Dr Caitlin Robinson as QMRG's Diversity and Inclusion Officer (email: Caitlin.Robinson@liverpool.ac.uk).
+We are particularly interested in supporting applications that will help diversify the group. If you would like to informally discuss any of the equality, diversity and inclusivity issues related to the positions, please get in contact with Dr Caitlin Robinson as QMRG's Diversity and Inclusion Officer (email: Caitlin.Robinson@liverpool.ac.uk). Applications from ECRs are also welcomed.
 
 All committee positions normally have a 3-year term. Ideally post-holders will be fellows of the Royal Geographical Society. 
 
