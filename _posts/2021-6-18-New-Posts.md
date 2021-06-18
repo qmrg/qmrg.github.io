@@ -12,7 +12,7 @@ Main responsibilities include organising monthly QMRG meetings, liaising with RG
 **Dissertation Prize Officer** \
 Responsible for co-ordinating the annual undergraduate dissertation competition (see above), including advertising the competition, collating submissions, arranging judging. The post-holder will also contribute to the general running of the group. Previous winners of the dissertation prize can be seen [here](https://qmrg.github.io/prizes).
 
-**Deadline for submissions:** 16:00 GMT 27th August 2021
+**Deadline for submissions:** 27th August 2021 16:00 GMT 
 
 Nominations for the two available positions may include self-nominations and should be sent along with the name of a seconder and a brief statement of suitability. Please send any questions and nominations to both the QMRG Chair Dr Dani Arribas-Bel (email: d.arribas-bel@liverpool.ac.uk) and QMRG secretary Dr Alistair Geddes (email: A.Y.Geddes@dundee.ac.uk). A vote will take place on each new committee appointment at the 2021 QMRG Annual General Meeting (date to be confirmed, but will be early September).
 
