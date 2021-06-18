@@ -11,11 +11,11 @@ title: "Committee"
 
 **Treasurer**: [Levi John Wolf (University of Bristol)](http://www.bris.ac.uk/geography/people/levi-j-wolf/index.html)
 
-**Diversity and Inclusion Officer**: [Caitlin Robinson (University of Newcastle)](https://www.ncl.ac.uk/gps/staff/profile/caitlinrobinson.html#background)
+**Diversity and Inclusion Officer**: [Caitlin Robinson (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/caitlin-robinson/)
 
 **Conferences Officer**: [Emmanouil Tranos (University of Bristol)](http://www.bristol.ac.uk/geography/people/emmanouil-tranos/index.html)
 
-**Dissertation Prize Officer**: [Roberto Santos (University of Nottingham)](https://scholar.google.com/citations?user=OiisfSgAAAAJ&hl=en)
+**Dissertation Prize Officer**: Currently vacant
 
 **Social Media/Web Officer**: [Mark Green (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
 
