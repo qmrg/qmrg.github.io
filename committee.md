@@ -7,7 +7,7 @@ title: "Committee"
 
 **Chair**: [Dani Arribas-Bel (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/daniel-arribas-bel/)
 
-**Secretary**: [Alistair Geddes (University of Dundee)](https://www.dundee.ac.uk/people/alistair-geddes)
+**Secretary**: [Qunshan Zhao (University of Glasgow)](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)
 
 **Treasurer**: [Levi John Wolf (University of Bristol)](http://www.bris.ac.uk/geography/people/levi-j-wolf/index.html)
 
@@ -15,7 +15,7 @@ title: "Committee"
 
 **Conferences Officer**: [Emmanouil Tranos (University of Bristol)](http://www.bristol.ac.uk/geography/people/emmanouil-tranos/index.html)
 
-**Dissertation Prize Officer**: Currently vacant
+**Dissertation Prize Officer**: [Isabel Williams (University of Newcastle)](https://www.ncl.ac.uk/gps/research/geography-research/research-students/isabel/)
 
 **Social Media/Web Officer**: [Mark Green (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
 
