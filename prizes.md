@@ -9,6 +9,12 @@ We run an annual dissertation prize open to any undergraduate dissertation that 
 
 Here is a list of past winners of the prize.
 
+**2021**
+
+Joint winner: Brittany Pugh, University of Nottingham - "Partitioning taxonomic and functional beta-diversity into their relative turnover and nestedness components between disturbed engineered and undisturbed towpath plant communities on the Basingstoke Canal, UK".
+
+Joint winner: Jay Chang, University College London - "A detailed assessment of the current and future spatial distribution of Loxodonta cyclotis in Central Africa: An application of ensemble species distribution model."
+
 **2020**
 
 Winner: Christiane Spring, University of Bristol - “The Polluted Brain: Logistic regression analysis of the association between atmospheric pollution and Alzheimer’s disease in the South West of England”.
