@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jay Chang Bio"
-date: 2021-10-13
+date: 2021-10-12
 ---
 
 # 2021 Undergraduate Dissertation Prize Joint Winner
