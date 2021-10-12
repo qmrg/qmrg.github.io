@@ -4,7 +4,7 @@ title: "Patrick Ballantyne Bio"
 date: 2021-10-12
 ---
 
-## **2021 Winner of the Robin Flowerdew Award for Best Postgraduate Paper at the RGS-IBG Annual Conference**
+# 2021 Winner of the Robin Flowerdew Award for Best Postgraduate Paper at the RGS-IBG Annual Conference
 
 **Patrick Ballantyne, University of Liverpool - “American Retail Centre Geographies: Centres, Characteristics and Catchments”**
 
