@@ -17,4 +17,4 @@ Here is a list of past winners of the prize.
 
 Winner: Patrick Ballantyne, University of Liverpool - “American Retail Centre Geographies: Centres, Characteristics and Catchments”.
 
-[Bio](https://qmrg.github.io/blog/2021/10/12/ballantyne-bio)
+[Bio](https://qmrg.github.io/blog/2021/10/12/Ballantyne-bio)
