@@ -14,6 +14,14 @@ Hi, my name is Patrick, and I am a final year PhD student based in the [Geograph
 
 The paper in question, entitled ‘American Retail Centre Geographies: Centres, Characteristics and Catchments’, explores three key aspects of retail centre geographies for the national extent of the USA; where they are located, what characteristics they have and who uses them. Using data from SafeGraph Inc., we identify the retail centre boundaries (where) using a custom neighbour searching algorithm built for the H3 spatial indexing system, we extract a non-hierarchical, data-driven retail centre typology (what), and a bespoke Huff model is constructed to extract catchments (who), calibrated using a large-scale mobility dataset.
 
+1
 ![Map from the paper](/images/ballantyne_map.tiff)
+
+2
+<img src="/images/ballantyne_map.tiff">
+
+3
+![Map from the paper](/images/ballantyne_map.jpeg)
+
 
 I am currently in the final couple of weeks of writing up this paper, which forms the second paper of my PhD, and I am excited (and also nervous) to begin the publication process with it. If you are interested in the project and its development over the coming months, please check out the [GitHub repo](https://github.com/patrickballantyne/USRetailCentres) for the project, where you will find code and my slides from the RGS-IBG annual conference. 
