@@ -16,4 +16,4 @@ The paper in question, entitled ‘American Retail Centre Geographies: Centres, 
 
 ![Map from the paper](/images/ballantyne_map.tiff)
 
-I am currently in the final couple of weeks of writing up this paper, which forms the second paper of my PhD, and I am excited (and also nervous) to begin the publication process with it. If you are interested in the project and its development over the coming months, please check out the GitHub repo for the project, where you will find code and my slides from the RGS-IBG annual conference: https://github.com/patrickballantyne/USRetailCentres. 
+I am currently in the final couple of weeks of writing up this paper, which forms the second paper of my PhD, and I am excited (and also nervous) to begin the publication process with it. If you are interested in the project and its development over the coming months, please check out the [GitHub repo](https://github.com/patrickballantyne/USRetailCentres) for the project, where you will find code and my slides from the RGS-IBG annual conference. 
