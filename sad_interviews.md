@@ -11,13 +11,15 @@ Throughout the years, spatial analytics and data have been nurtured by path-brea
 
 Join us for SAD: The Interviews, long-form, informal conversations with influencers of our generation of spatial analytics and data for their insights on the evolution (and revolutions) of the field. You can sign up for events using the Evenbrite link, or catch up on previous recordings via the youtube link.
 
+We also run seminars to promote excellent research that highlights the importance of spatial analytics and data. You can catch up on these seminars on our [youtube channel](https://www.youtube.com/playlist?list=PL6M30zBbmmEMIOWbeOlfDMlk8pJgGDQGK).
+
 ## 2021
 
 ### April 13th - Michael Batty
 
 For our inaugural SAD Interview, we welcome Professor Michael Batty, internationally esteemed scholar of cities, complexity, and urban systems. Professor Batty is Founder and Past Director of the Centre for Advanced Spatial Analysis at University College London, Editor of Environment and Planning B, and 2015 awardee of the Royal Geographical Society's Founder's Medal.
 
-- [Eventbrite](https://www.eventbrite.co.uk/e/spatial-analytics-data-the-interviews-professor-michael-batty-tickets-148357512313#) (16:00 - 17:30 BST)
+- [Eventbrite](https://www.eventbrite.co.uk/e/spatial-analytics-data-the-interviews-professor-michael-batty-tickets-148357512313#)
 - [YouTube](https://www.youtube.com/watch?v=X0N6zrS85H8) 
 
 ### May 4th - Luc Anselin
