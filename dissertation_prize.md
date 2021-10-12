@@ -13,7 +13,11 @@ Here is a list of past winners of the prize.
 
 Joint winner: Brittany Pugh, University of Nottingham - "Partitioning taxonomic and functional beta-diversity into their relative turnover and nestedness components between disturbed engineered and undisturbed towpath plant communities on the Basingstoke Canal, UK".
 
+[Bio](https://qmrg.github.io/blog/2021/10/12/Brittany-Pugh-Bio)
+
 Joint winner: Jay Chang, University College London - "A detailed assessment of the current and future spatial distribution of Loxodonta cyclotis in Central Africa: An application of ensemble species distribution model."
+
+[Bio](https://qmrg.github.io/blog/2020/11/03/Jay-Chang-Bio)
 
 **2020**
 
