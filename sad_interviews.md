@@ -13,7 +13,7 @@ Join us for SAD: The Interviews, long-form, informal conversations with influenc
 
 We also run seminars to promote excellent research that highlights the importance of spatial analytics and data. You can catch up on these seminars on our [youtube channel](https://www.youtube.com/playlist?list=PL6M30zBbmmEMIOWbeOlfDMlk8pJgGDQGK).
 
-## 2021
+## Season I (2021)
 
 ### April 13th - Michael Batty
 
@@ -49,3 +49,13 @@ Danny Dorling is Halford Mackinder Professor of Geography at the University of O
 
 - [Eventbrite](https://www.eventbrite.co.uk/e/spatial-analytics-data-the-interviews-danny-dorling-tickets-153974244109)
 - [YouTube]()
+
+### [Bonus] November 16th - Sara Fabrikant
+
+## Season II (2022)
+
+### February 22nd - Trysalin Nelson
+
+### May 3rd - Antonio Paez
+
+### June 14th - Sarah Elwood
