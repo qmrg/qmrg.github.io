@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RGS-IBG Call for Sessions"
-date: 2021-10-12
+date: 2022-01-31
 ---
 
 # RGS-IBG 2022 Annual Conference - Call for Sponsored Sessions
@@ -23,5 +23,5 @@ Please send the following information to Emmanouil Tranos (e.tranos@bristol.ac.u
 *	Session format and how many timeslots you are requiring
 *	Indication of preferred format (in-person, hybrid or online). 
 
-We will assess all the proposals and get back to you by 11th March in order to submit the RGS-IBG form by the 25th March. More information can be found [here](https://www.rgs.org/research/annual-international-conference/call/guidance-for-session-organisers/). 
+We will assess all the proposals and get back to you after the 11th March in order to submit the RGS-IBG form by the 25th March. More information can be found [here](https://www.rgs.org/research/annual-international-conference/call/guidance-for-session-organisers/). 
 
