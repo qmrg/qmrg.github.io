@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "RGS-IBG PGR Call for Sessions"
+title: "RGS-IBG Call for PGR Sessions"
 date: 2022-02-15
 ---
-
-# Call for RGS-IBG sessions led by PGRs
  
 The Quantitative Methods Research Group (QMRG) is inviting proposals for PGR-led sessions for the forthcoming **RGS-IBG Annual International Conference**, which will take place from Tuesday 30th August to Friday 2nd September 2022 at Newcastle University, UK.
  
@@ -27,7 +25,5 @@ Please send the following information as a Word document to Dr Isabel Williams (
  
 Convenors will be notified by Wednesday 2nd March 2022, so that they can begin organising and distributing their call for papers. Confirmed sessions will therefore be granted QMRG sponsorship.
  
-Session convenors will need to submit the necessary documents to the RGS by close of play Friday 25th March 2022. Details are available [here](https://www.rgs.org/research/annual-international-conference/call/guidance-for-session-organisers/)
- 
-Please do forward this call for session to other Geography PGRs who may be interested in participating.
+Session convenors will need to submit the necessary documents to the RGS by close of play Friday 25th March 2022. Details are available [here](https://www.rgs.org/research/annual-international-conference/call/guidance-for-session-organisers/).
 
