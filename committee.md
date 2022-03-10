@@ -5,6 +5,8 @@ title: "Committee"
 
 # Committee
 
+The current committee of QMRG is:
+
 **Chair**: [Dani Arribas-Bel (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/daniel-arribas-bel/)
 
 **Secretary**: [Qunshan Zhao (University of Glasgow)](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)
@@ -20,3 +22,5 @@ title: "Committee"
 **Social Media/Web Officer**: [Mark Green (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
 
 **Postgraduate Representatives**: [Rachael Sanderson (Newcastle University)](https://research.ncl.ac.uk/geospatial-systems/phdresearchers/phd-rachaelsanderson.html) and [Patrick Ballantyne (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
+
+You can read more about the history of QMRG and previous incumbents [here](https://qmrg.github.io/history_of_qmrg).
