@@ -11,5 +11,5 @@ A full timeline of the QMRG committee can be viewed [here](https://github.com/qm
 
 The committee has been represented by academics from diverse institutions across Great Britain. The map below presents the number of times institutions were represented in the three key roles that have persisted in QMRG over time (Chair, Secretary and Treasurer). 
 
-![map of the committee](/images/Institutional Geographies.jpeg)
+<img src="/images/Institutional Geographies.jpeg" alt="drawing" width="400"/>
 
