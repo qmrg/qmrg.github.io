@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "QMRG report for Oct 2021 – Mar 2022"
-date: 2020-11-10
+date: 2022-04-29
 ---
 
 As part of the QMRG's regular reporting to the Royal Geographical Society (RGS), we provide short updates on our activities every 6 months. This page details a summary of activities between October 2021 and March 2022. 
