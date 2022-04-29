@@ -70,3 +70,4 @@ Winner: Tadas Nikonovas, Swansea University – “Dynamics of night time emissi
 Winner: Laura Steele, University of Bristol – “A Multilevel Modelling Approach to Ethnic Residential Segregation in Urban England, 1991-2001″
 
 Runners up: Tim Foster and Robin Wilson’s entries, from University College London and the University of Southampton respectively.
+
