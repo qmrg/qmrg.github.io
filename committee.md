@@ -23,4 +23,4 @@ The current committee of QMRG is:
 
 **Postgraduate Representatives**: [Rachael Sanderson (Newcastle University)](https://research.ncl.ac.uk/geospatial-systems/phdresearchers/phd-rachaelsanderson.html) and [Patrick Ballantyne (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
 
-You can read more about the history of QMRG and previous incumbents [here](https://qmrg.github.io/history_of_qmrg).
+You can read more about the [history of QMRG](https://qmrg.github.io/history_of_qmrg) and [previous incumbents](https://qmrg.github.io/past_committee).
