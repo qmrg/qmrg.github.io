@@ -13,7 +13,7 @@ The current committee of QMRG is:
 
 **Treasurer**: [Levi John Wolf (University of Bristol)](http://www.bris.ac.uk/geography/people/levi-j-wolf/index.html)
 
-**Diversity and Inclusion Officer**: [Caitlin Robinson (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/caitlin-robinson/)
+**Diversity and Inclusion Officer**: [Caitlin Robinson (University of Bristol)](https://research-information.bris.ac.uk/en/persons/caitlin-robinson)
 
 **Conferences Officer**: [Emmanouil Tranos (University of Bristol)](http://www.bristol.ac.uk/geography/people/emmanouil-tranos/index.html)
 
