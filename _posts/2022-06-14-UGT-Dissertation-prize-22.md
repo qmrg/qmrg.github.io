@@ -18,4 +18,4 @@ To submit an entry, please email a copy of the dissertation without any indicati
 
 Please provide an email address for the student that will be live after September 2021 (e.g. a personal email address where institutional addresses expire following graduation).
 
-Deadline: 15th July 2022
+**Deadline: 15th July 2022**
