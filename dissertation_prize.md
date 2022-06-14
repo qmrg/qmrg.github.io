@@ -5,7 +5,7 @@ title: "Undergraduate Dissertation Prize"
 
 # Undergraduate Dissertation Prize
 
-We run an annual dissertation prize open to any undergraduate dissertation that displays an aptitude for quantitative methods within Human and Physical Geography. Check out our [Twitter](https://twitter.com/qmrg_rgs_ibg) or [blog](https://qmrg.github.io/blog) for latest calls (occurring roughly summer time each year).
+We run an annual dissertation prize open to any undergraduate dissertation that displays an aptitude for quantitative methods within Human and Physical Geography, including other disciplines where work engages with geographical problems and phenomena from a quantitative perspective. Check out our [Twitter](https://twitter.com/qmrg_rgs_ibg) or [blog](https://qmrg.github.io/blog) for latest calls (occurring roughly summer time each year).
 
 Here is a list of past winners of the prize.
 
