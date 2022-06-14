@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2022 Undergradiate Dissertation Prize"
-date: 2021-06-14
+date: 2022-06-14
 ---
 
 Every year, the Quantitative Methods Research Group (QMRG) offers a prize for the best undergraduate dissertation that engages with quantitative methods and methodologies.  Students need not necessarily be aligned to a geography(-related) discipline, but their work should engage with geographical problems and phenomena from a quantitative perspective. Innovative geographic data science analyses, effective deployments of existing geographical science methods, or fundamental research in spatial models will all be considered.
