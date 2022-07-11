@@ -4,6 +4,8 @@ title: "QMRG Dissertation Prize Officer role description"
 date: 2022-07-11
 ---
 
+By Isabel Williams, outgoing Dissertation Prize Officer
+
 Having acquired nearly seven years of teaching experience in higher education, one thing that has stuck with me is the fantastic work that cohorts of undergraduate researchers are producing and contributing to the wider geographical knowledge. Both from within the confines of the discipline as human and physical geographers, to those who are not necessarily to a geography-related discipline, what this position does is provide you with the opportunity to be proactive in the celebration of this emerging research.
 
 **Expectations and Responsibilities**
