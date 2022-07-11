@@ -4,6 +4,8 @@ title: "A day in the life of a postgraduate student representative"
 date: 2022-07-11
 ---
 
+*By Patrick Ballantyne, outgoing Postgraduate Student Representative*
+
 Three years ago, I attended my first ever (virtual) QMRG AGM, daunted at the prospect of sitting on a Zoom call with unfamiliar, yet highly established academics in my field. I did not know what to expect, but I was curious to see what opportunities could arise from sitting in the meeting, manifesting in a formal committee position as a postgraduate representative. Three years on I thought it would be fun to reflect on my time on the committee, hopefully inspiring someone new to take up this exciting post.
 
 I think perhaps the best thing I got out of it this position was in widening my academic network. Establishing informal connections with other committee members has presented me with many friendly faces to approach at conferences and events, something I have benefitted greatly from as a PhD student looking to carve out my network. In addition, new opportunities for collaboration have arisen, notably when setting up a panel session at the RGS mid-term conference with my fellow representative Rachael Sanderson, and a subsequent written reflective piece written with nine other quantitative geographers. 
