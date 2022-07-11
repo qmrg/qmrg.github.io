@@ -17,9 +17,9 @@ Responsible for attending monthly meetings and organising RGS-IBG annual confere
 
 **How to apply**
 
-*Deadline for submissions: 27th August 2021 16:00 GMT*
+*Deadline for submissions: 26th August 2021 16:00 GMT*
 
-Nominations for the available positions may include self-nominations and should be sent along with the name of a seconder and a brief statement of suitability. Please send any questions and nominations to QMRG secretary Dr Qunshan Zhao (email: Qunshan.Zhao@glasgow.ac.uk). A vote will take place on each new committee appointment at the 2022 QMRG Annual General Meeting (date to be confirmed, but will be early September).
+Nominations for the available positions may include self-nominations and should be sent along with the name of a seconder and a brief statement of suitability. Please send any questions and nominations to QMRG secretary Dr Qunshan Zhao (email: Qunshan.Zhao@glasgow.ac.uk). A vote will take place on each new committee appointment at the 2022 QMRG Annual General Meeting happening during the 2022 RGS-IBG Annual Conference (30th August-2nd September).
 
 We are particularly interested in supporting applications that will help diversify the group, especially from social groups and identities that face structural barriers to inclusion in academia. If you would like to informally discuss any of the equality, diversity and inclusivity issues related to the positions, please get in contact with Dr Caitlin Robinson as QMRG’s Diversity and Inclusion Officer (email: caitlin.robinson@bristol.ac.uk). Applications from ECRs are also welcomed and encouraged.
 
