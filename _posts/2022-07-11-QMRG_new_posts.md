@@ -14,7 +14,7 @@ We are happy to announce that we are seeking nominations for **three** positions
 
 **How to apply**
 
-*Deadline for submissions: 1st August 2021 16:00 GMT*
+*Deadline for submissions: 1st August 2022 16:00 GMT*
 
 Nominations for the available positions may include self-nominations and should be sent along with the name of a seconder and a brief statement of suitability. Please send any questions and nominations to QMRG secretary Dr Qunshan Zhao (email: Qunshan.Zhao@glasgow.ac.uk). A vote will take place on each new committee appointment at the 2022 QMRG Annual General Meeting in mid-to-late August; exact date to be announced via [Twitter](https://twitter.com/qmrg_rgs_ibg)).
 
