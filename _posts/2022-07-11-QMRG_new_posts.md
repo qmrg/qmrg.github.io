@@ -6,14 +6,11 @@ date: 2022-07-11
 
 We are happy to announce that we are seeking nominations for **three** positions on the QMRG committee in order to replace current post-holders who are completing their terms. Specifically:
 
-**Chair**
-Main responsibilities include leading monthly QMRG meetings, liaising with RGS-IBG, and leading the strategy for the group. A description of the post can be found [here](https://qmrg.github.io/blog/2022/07/11/QMRG_Chair).
+**Chair:** Main responsibilities include leading monthly QMRG meetings, liaising with RGS-IBG, and leading the strategy for the group. A description of the post can be found [here](https://qmrg.github.io/blog/2022/07/11/QMRG_Chair).
 
-**Dissertation Prize Officer**
-Responsible for co-ordinating the annual [undergraduate dissertation competition](https://qmrg.github.io/dissertation_prize), including advertising the competition, collating submissions, arranging judging. A description of the post can be viewed [here](https://qmrg.github.io/blog/2022/07/11/Dissertation_Officer_post).
+**Dissertation Prize Officer:** Responsible for co-ordinating the annual [undergraduate dissertation competition](https://qmrg.github.io/dissertation_prize), including advertising the competition, collating submissions, arranging judging. A description of the post can be viewed [here](https://qmrg.github.io/blog/2022/07/11/Dissertation_Officer_post).
 
-**Postgraduate student representative**
-Responsible for attending monthly meetings and organising RGS-IBG annual conference sessions focused on postgraduate students. A description of what the role entails can be read [here](https://qmrg.github.io/blog/2022/07/11/Postgrad_rep_post).
+**Postgraduate student representative:** Responsible for attending monthly meetings and organising RGS-IBG annual conference sessions focused on postgraduate students. A description of what the role entails can be read [here](https://qmrg.github.io/blog/2022/07/11/Postgrad_rep_post).
 
 **How to apply**
 
