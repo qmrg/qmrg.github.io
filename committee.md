@@ -7,7 +7,7 @@ title: "Committee"
 
 The current committee of QMRG is:
 
-**Chair**: [Dani Arribas-Bel (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/daniel-arribas-bel/)
+**Chair**: [Francisco Rowe (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/francisco-javier-rowe-gonzalez/)
 
 **Secretary**: [Qunshan Zhao (University of Glasgow)](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)
 
@@ -17,11 +17,11 @@ The current committee of QMRG is:
 
 **Conferences Officer**: [Emmanouil Tranos (University of Bristol)](http://www.bristol.ac.uk/geography/people/emmanouil-tranos/index.html)
 
-**Dissertation Prize Officer**: [Isabel Williams (University of Newcastle)](https://www.ncl.ac.uk/gps/research/geography-research/research-students/isabel/)
+**Dissertation Prize Officer**: [Yijing Li (University College London)](https://www.kcl.ac.uk/people/yijing-li)
 
 **Social Media/Web Officer**: [Mark Green (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
 
-**Postgraduate Representatives**: [Rachael Sanderson (Newcastle University)](https://research.ncl.ac.uk/geospatial-systems/phdresearchers/phd-rachaelsanderson.html) and [Patrick Ballantyne (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
+**Postgraduate Representatives**: [Rachael Sanderson (Newcastle University)](https://research.ncl.ac.uk/geospatial-systems/phdresearchers/phd-rachaelsanderson.html), [Yue Li (University of Glasgow)](https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/phd-students/yue-li/), [Laura Sheppard (University College London)](https://iris.ucl.ac.uk/iris/browse/profile?upi=LSHEP63), and [Ruth Neville (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
 
 You can read more about the [history of QMRG](https://qmrg.github.io/history_of_qmrg) and [previous incumbents](https://qmrg.github.io/past_committee).
 
