@@ -5,7 +5,7 @@ title: "Postgraduate Paper Award"
 
 # Robin Flowerdew Award for Best Postgraduate Paper at the RGS-IBG Annual Conference
 
-Each year, we sponsor sessions at the RGS-IBG Annual Conference to help profile and promote exciting PhD research being produced by the next generation of quantitative Geographers. All papers that are rpesented in these sessions are eligible for the prize, which is adjudicated by independent reviewers.
+Each year, we sponsor sessions at the RGS-IBG Annual Conference to help profile and promote exciting PhD research being produced by the next generation of quantitative Geographers. All papers that are represented in these sessions are eligible for the prize, which is adjudicated by independent reviewers.
 
 The prize is named in honour of Prof. Robin Flowerdew who made considerable contributions to quantitative methods in Geography, as well as having played an important role in promoting and supporting QMRG. You can read more about Robin [here](https://www.rgs.org/geography/news/professor-robin-flowerdew/) and read some of their papers [here](https://scholar.google.co.uk/citations?user=bMJJJDUAAAAJ&hl=en).
 
