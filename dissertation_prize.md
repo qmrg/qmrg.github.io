@@ -9,6 +9,16 @@ We run an annual dissertation prize open to any undergraduate dissertation that 
 
 Here is a list of past winners of the prize.
 
+**2022**
+
+Joint winner: Melissa McAlpine, University of Edinburgh - “Detecting the Spatial and Temporal Patterns of Mangrove Damage and Recovery from Satellite Imagery Following Hurricane Irma in Cuba”.
+
+[Bio](https://qmrg.github.io/blog/2022/09/08/undergrad-winner-mcalpine)
+
+Joint winner: Hollie Parry, University College London - “Projections of thermally induced coral bleaching across Caribbean reefs, using a marine heatwave algorithm”.
+
+[Bio](https://qmrg.github.io/blog/2022/09/08/dissertation-winner-parry)
+
 **2021**
 
 Joint winner: Brittany Pugh, University of Nottingham - "Partitioning taxonomic and functional beta-diversity into their relative turnover and nestedness components between disturbed engineered and undisturbed towpath plant communities on the Basingstoke Canal, UK".
