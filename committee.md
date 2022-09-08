@@ -21,7 +21,7 @@ The current committee of QMRG is:
 
 **Social Media/Web Officer**: [Mark Green (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
 
-**Postgraduate Representatives**: [Rachael Sanderson (Newcastle University)](https://research.ncl.ac.uk/geospatial-systems/phdresearchers/profiles/rachaelsanderson.html), [Yue Li (University of Glasgow)](https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/phd-students/yue-li/), [Laura Sheppard (University College London)](https://iris.ucl.ac.uk/iris/browse/profile?upi=LSHEP63), and [Ruth Neville (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
+**Postgraduate Representatives**: [Yue Li (University of Glasgow)](https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/phd-students/yue-li/), [Laura Sheppard (University College London)](https://iris.ucl.ac.uk/iris/browse/profile?upi=LSHEP63) and [Ruth Neville (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
 
 You can read more about the [history of QMRG](https://qmrg.github.io/history_of_qmrg) and [previous incumbents](https://qmrg.github.io/past_committee).
 
