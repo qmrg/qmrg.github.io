@@ -6,7 +6,7 @@ date: 2022-09-08
 
 **2022 Joint Winner of our [Undergraduate Dissertation Prize](https://qmrg.github.io/dissertation_prize): Melissa McAlpine, University of Edinburgh - “Detecting the Spatial and Temporal Patterns of Mangrove Damage and Recovery from Satellite Imagery Following Hurricane Irma in Cuba”**
 
-![Melissa McAlpine](/images/mcalpine.jpg)
+![Melissa McAlpine](/images/McAlpine.jpg)
 
 During my geography degree at The University of Edinburgh I became interested in the impacts of the interactions between humans and the environment, mainly in the form of climate change. Climate change is predicted to greatly alter weather systems, including hurricanes which are predicted to become more severe. I also enjoyed learning GIS and coding techniques to analyse and model earth processes. This culminated in my dissertation titled: Detecting the Spatial and Temporal Patterns of Mangrove Damage and Recovery from Satellite Imagery Following Hurricane Irma in Cuba.
 
