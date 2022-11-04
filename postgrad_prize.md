@@ -17,6 +17,8 @@ Here is a list of past winners of the prize.
 
 Winner: Sian Teesdale, University of Liverpool - "Origin-Destination Flows using GPS Probe Data".
 
+[Bio](https://qmrg.github.io/blog/2022/11/04/bio-sian-teesdale)
+
 **2021**
 
 Winner: Patrick Ballantyne, University of Liverpool - “American Retail Centre Geographies: Centres, Characteristics and Catchments”.
