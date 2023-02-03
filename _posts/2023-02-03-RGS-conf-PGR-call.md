@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call for abstracts for PGR-led session at RGS-IBG Annual Conference"
-date: 2020-11-10
+date: 2023-02-03
 ---
 
 **Call for Abstracts: The Royal Geographical Society-Institute of British Geographers (RGS-IBG) Annual International Conference 2023**
