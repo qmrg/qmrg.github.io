@@ -4,7 +4,7 @@ title: "QMRG report for Oct 2022 - Mar 2023"
 date: 2023-04-26
 ---
 
-As part of the QMRG’s regular reporting to the Royal Geographical Society (RGS), we provide short updates on our activities every 6 months. This page details a summary of activities between October 2022 and March 2022.
+As part of the QMRG’s regular reporting to the Royal Geographical Society (RGS), we provide short updates on our activities every 6 months. This page details a summary of activities between October 2022 and March 2023.
 
 - We inaugurated our new chair, [Prof. Francisco Rowe](https://www.liverpool.ac.uk/environmental-sciences/staff/francisco-javier-rowe-gonzalez/), who began his tenure at the AGM. We give our thanks and congratulations to our outgoing chair, Prof. Daniel Arribas-Bel. 
 - Our early-career researcher members—Laura Sheppard, Ruth Neville, and Yue Li—and our EDI coordinator, Dr. Catlin Robinson, have successfully started a useful and robust “Early Career Researcher” network to connect and support early-career researchers doing quantitative geography. The group has a mailing list, grew from a social held at the last RGS conference, and will be anchoring sessions and a social for the upcoming RGS. 
