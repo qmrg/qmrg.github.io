@@ -16,6 +16,6 @@ For full details of the Undergraduate Dissertation Prize, please select this [li
 
 To submit an entry, please email a copy of the dissertation without any indication of the awarded mark to: Dr Yijing Li (qmrgdissertation@outlook.com).
 
-Please provide an email address for the student that will be live after September 2021 (e.g. a personal email address where institutional addresses expire following graduation).
+Please provide an email address for the student that will be live after October 2021 (e.g. a personal email address where institutional addresses expire following graduation).
 
-**Deadline:** 14th July 2022 @ 5pm (GMT)
+**Deadline:** 25th October 2022 @ 5pm (GMT)
