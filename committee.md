@@ -15,11 +15,11 @@ The current committee of QMRG is:
 
 **Diversity and Inclusion Officer**: [Caitlin Robinson (University of Bristol)](https://research-information.bris.ac.uk/en/persons/caitlin-robinson)
 
-**Conferences Officer**: [Emmanouil Tranos (University of Bristol)](http://www.bristol.ac.uk/geography/people/emmanouil-tranos/index.html)
+**Conferences Officer**: [Stephen Law (University College London)](https://www.ucl.ac.uk/bartlett/architecture/people/mphil-phd/stephen-law)
 
 **Dissertation Prize Officer**: [Yijing Li (Kings College London)](https://www.kcl.ac.uk/people/yijing-li)
 
-**Social Media/Web Officer**: [Mark Green (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
+**Social Media/Web Officer**: [Elisabetta Pietrostefani (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/elisabetta-pietrostefani/)
 
 **Postgraduate Representatives**: [Yue Li (University of Glasgow)](https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/phd-students/yue-li/), [Laura Sheppard (University College London)](https://iris.ucl.ac.uk/iris/browse/profile?upi=LSHEP63) and [Ruth Neville (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
 
