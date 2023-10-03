@@ -11,7 +11,7 @@ The current committee of QMRG is:
 
 **Secretary**: [Qunshan Zhao (University of Glasgow)](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)
 
-**Treasurer**: [Levi John Wolf (University of Bristol)](http://www.bris.ac.uk/geography/people/levi-j-wolf/index.html)
+**Treasurer**: [Alessia Calafiore (University of Edinburgh)](https://www.research.ed.ac.uk/en/persons/alessia-calafiore)
 
 **Diversity and Inclusion Officer**: [Caitlin Robinson (University of Bristol)](https://research-information.bris.ac.uk/en/persons/caitlin-robinson)
 
