@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Fira+Mono&display=swap");
 
 body {
+    font-family:'Roboto';
     margin: 60px auto;
     width: 70%;
 }
