@@ -1,5 +1,8 @@
-
-QMRG half-year report Mar 2023 – Oct 2023
+---
+layout: post
+title: "QMRG half-year report Mar 2023 – Oct 2023"
+date: 2023-11-17
+---
 
 As part of the QMRG's regular reporting to the Royal Geographical Society (RGS), we provide short updates on our activities every 6 months. This page details a summary of activities between March 2023 and October 2023.
 
