@@ -4,7 +4,7 @@ title: "Undergraduate Dissertation Prize Winners"
 date: 2023-12-11
 ---
 
-**2023 Winners of our [Undergraduate Dissertation Prize](https://qmrg.github.io/dissertation_prize) **
+**2023 Winners of our [Undergraduate Dissertation Prize](https://qmrg.github.io/dissertation_prize)**
 
 
 - **Matthew Lam**, University College London won the prize in Human Geography for their dissertation "Exploring the casual impact of mobile vaccination units in southwest London".
@@ -18,7 +18,7 @@ I studied Geography with Social Data Science at University College London. In 20
 At the time of my initial literature review, there was a limited body of literature which attempted to measure the causal impact of a large-scale mobile vaccination strategy. This dissertation hopes to build upon a relatively novel method of analysing the short-term causal effect of mobile health delivery systems on their target populations (using difference-in-difference and synthetic control analysis). I hope to have also contributed towards the development of open data science techniques for monitoring impacts of public health interventions at the neighbourhood level. 
 After graduating in September 2023, I joined Mott MacDonald as a Graduate GIS Consultant, where I work on developing technical solutions on a broad range of projects in geospatial, data science, and platform development.
 
-![Matthew Lam](/images/matthew_lam.jpg)
+<img src="/images/matthew_lam.jpg" alt="Matthew Lam" width="300"/>
 
 I graduated in 2023 with a BA in Geography from the University of Oxford, specialising in the field of biogeography. In my dissertation, I studied the resilience of ‘pollination networks’ in tropical ecosystems, compiling a dataset describing the interaction networks between different pollinators (like bees and hummingbirds) and plant species all over the tropics. For example, some networks were found to be more modular or nested than others. 
 
@@ -26,5 +26,5 @@ These indices I compared to modelled plant functional traits for the network loc
 
 I very much enjoyed this meta-analysis of existing data, and the use of generated data from the latest models. With rapid advances in remote sensing, modelling, and the compilation of global biodiversity datasets, I believe there are huge opportunities for data analysis and research. Following on from last year, I have stayed in Oxford to do the MSc in Biodiversity, Conservation and Management. I am still doing research with large biodiversity datasets, now focused on the assessment of biodiversity impacts within the carbon market.
 
-![Jacobus Petersen](/images/jacobus_petersen.jpg)
+<img src="/images/matthew_lam.jpg" alt="Matthew Lam" width="300"/>
 

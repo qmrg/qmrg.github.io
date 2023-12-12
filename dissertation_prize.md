@@ -9,6 +9,16 @@ We run an annual dissertation prize open to any undergraduate dissertation that 
 
 Here is a list of past winners of the prize.
 
+**2023**
+
+Matthew Lam, University College London won the prize in Human Geography - "Exploring the casual impact of mobile vaccination units in southwest London".
+ 
+
+Jacobus Petersen, University of Oxford won the prize in Physical Geography -  "Tropical pollination networks in their physical environment: a study into the influence of plant functional traits on the resilience of a crucial ecosystem service".
+
+[Bio](https://qmrg.github.io/blog/2023/12/11/UG_dissertation_winners)
+
+
 **2022**
 
 Joint winner: Melissa McAlpine, University of Edinburgh - “Detecting the Spatial and Temporal Patterns of Mangrove Damage and Recovery from Satellite Imagery Following Hurricane Irma in Cuba”.
