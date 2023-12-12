@@ -20,7 +20,7 @@ After graduating in September 2023, I joined Mott MacDonald as a Graduate GIS Co
 
 <img src="/images/matthew_lam.jpg" alt="Matthew Lam" width="300"/>
 
-- **Jacobus Petersen**
+**Jacobus Petersen**
 
 I graduated in 2023 with a BA in Geography from the University of Oxford, specialising in the field of biogeography. In my dissertation, I studied the resilience of ‘pollination networks’ in tropical ecosystems, compiling a dataset describing the interaction networks between different pollinators (like bees and hummingbirds) and plant species all over the tropics. For example, some networks were found to be more modular or nested than others. 
 
