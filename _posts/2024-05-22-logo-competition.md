@@ -28,20 +28,22 @@ of Tuesday 27 August to Friday 30 August 2024.
 
 **Competition Rules**
 
-• *Theme*: The logo must be somewhat related to quantitative methods in
+• *Theme* : The logo must be somewhat related to quantitative methods in
 geography.
 
-• *Reproducibility*: The winning image/concept must be based on
+• *Reproducibility* : The winning image/concept must be based on
 reproducible code such as R or Python (no limitation on programming
 languages).
 
-• *Deadline*: All submissions must be received by July 31st, 2024
+• *Deadline* : All submissions must be received by July 31st, 2024
 
 **Evaluation Criteria** Submissions will be evaluated by the committee
-members of the RGS Quantitative Research Methods Group based on: • The
-suitability of the image as a logo for the group. • Creativity and
-originality. • Quality of the code. • Willingness to make the code
-openly available.
+members of the RGS Quantitative Research Methods Group based on: 
+
+• The suitability of the image as a logo for the group.
+• Creativity and originality.
+• Quality of the code.
+• Willingness to make the code openly available.
 
 **A little background** The Quantitative Methods Research Group (QMRG)
 is one of a number of Speciality Research Groups of the RGS-IBG. The
@@ -64,8 +66,8 @@ competition*.
 
 **Prizes**
 
-• *Winner*: £100 prize.
+• *Winner* : £100 prize.
 
-• *Runner-up*: £50 prize.
+• *Runner-up* : £50 prize.
 
 We look forward to seeing your innovative ideas!
