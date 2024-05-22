@@ -19,7 +19,7 @@ The competition kicks off on June 1st, 2024, and is open to everyone
 from anywhere. You have until July 31st to submit a single map, a set of
 maps, or another visualisation that could serve as the group's logo.
 Feel free to reach out with questions via email:
-[qmrg.rgs.ibg@gmail.com](qmrg.rgs.ibg@gmail.com).
+[qmrg.rgs.ibg\@gmail.com](qmrg.rgs.ibg@gmail.com).
 
 The winner will be announced during this year’s QMRG Annual Group
 Meeting at the RGS annual conference. The RGS-IBG Annual International
@@ -57,11 +57,10 @@ are some AI-generated images as food for thought. *Please note that
 AI-generated images will not be accepted as submissions for this
 competition*.
 
-<img src="/images/ai_logo.jpg" width="200"/>
-
+<img src="/images/ai_logo.png" alt="Logo examples" width="200"/>
 
 **How to Enter** Submit your idea via email to
-[qmrg.rgs.ibg@gmail.com](qmrg.rgs.ibg@gmail.com).
+[qmrg.rgs.ibg\@gmail.com](qmrg.rgs.ibg@gmail.com).
 
 **Prizes**
 
