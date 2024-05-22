@@ -57,7 +57,7 @@ are some AI-generated images as food for thought. *Please note that
 AI-generated images will not be accepted as submissions for this
 competition*.
 
-<img src="/images/ai_logo.jpg" alt="Matthew Lam" width="200"/>
+<img src="/images/ai_logo.jpg" width="200"/>
 
 
 **How to Enter** Submit your idea via email to
