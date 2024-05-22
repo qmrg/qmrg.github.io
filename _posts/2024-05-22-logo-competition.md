@@ -38,11 +38,14 @@ languages).
 • *Deadline* : All submissions must be received by July 31st, 2024
 
 **Evaluation Criteria** Submissions will be evaluated by the committee
-members of the RGS Quantitative Research Methods Group based on: 
+members of the RGS Quantitative Research Methods Group based on:
 
 • The suitability of the image as a logo for the group.
+
 • Creativity and originality.
+
 • Quality of the code.
+
 • Willingness to make the code openly available.
 
 **A little background** The Quantitative Methods Research Group (QMRG)
