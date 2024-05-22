@@ -57,7 +57,7 @@ are some AI-generated images as food for thought. *Please note that
 AI-generated images will not be accepted as submissions for this
 competition*.
 
-<img src="/images/ai_logo.png" alt="Logo examples" width="200"/>
+<img src="/images/ai_logo.png" alt="Logo examples" width="500"/>
 
 **How to Enter** Submit your idea via email to
 [qmrg.rgs.ibg\@gmail.com](qmrg.rgs.ibg@gmail.com).
