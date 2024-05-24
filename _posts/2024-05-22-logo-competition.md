@@ -71,6 +71,6 @@ competition*.
 
 • *Winner* : £100 prize.
 
-• *Runner-up* : £50 prize.
+• 2 *Runner-up* : £50 prize each.
 
 We look forward to seeing your innovative ideas!
