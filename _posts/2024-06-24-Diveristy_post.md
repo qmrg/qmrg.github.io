@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diversity and Inclusion Officer Post Advertisement"
-date: 2024-06-20
+date: 2024-06-24
 ---
 
 We are happy to announce that we are seeking nominations for the
@@ -33,7 +33,7 @@ Nominations for the available positions may include self-nominations and
 should be sent along with the name of a seconder and a brief statement
 of suitability. Please send any questions and nominations to QMRG
 secretary Dr Qunshan Zhao (email:
-[Qunshan.Zhao\@glasgow.ac.uk](Qunshan.Zhao@glasgow.ac.uk)). A vote will
+[Qunshan.Zhao@glasgow.ac.uk](Qunshan.Zhao@glasgow.ac.uk)). A vote will
 take place on each new committee appointment at the 2024 QMRG Annual
 General Meeting at the 2024 RGS-IBG Annual Conference; exact date to be
 announced via X).
@@ -44,7 +44,7 @@ face structural barriers to inclusion in academia. If you would like to
 informally discuss any of the equality, diversity and inclusivity issues
 related to the positions, please get in contact with Dr Caitlin Robinson
 as our outgoing QMRG’s Diversity and Inclusion Officer (email:
-[caitlin.robinson\@bristol.ac.uk](caitlin.robinson@bristol.ac.uk)).
+[caitlin.robinson@bristol.ac.uk](caitlin.robinson@bristol.ac.uk)).
 Applications from ECRs are also welcomed and encouraged.
 
 All committee positions normally have a three-year term. Ideally
