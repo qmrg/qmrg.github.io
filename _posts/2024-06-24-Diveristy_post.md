@@ -27,7 +27,7 @@ Review dissertations for UG prize.
 
 **How to apply**
 
-*Deadline for submissions*: 31th July 2024 16:00 GMT
+*Deadline for submissions*: 30th August 2024 16:00 GMT
 
 Nominations for the available positions may include self-nominations and
 should be sent along with the name of a seconder and a brief statement
