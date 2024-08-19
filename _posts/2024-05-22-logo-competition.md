@@ -7,6 +7,8 @@ editor_options:
     wrap: 72
 ---
 
+**This competition has been postponed. Please check back later.**
+
 **Introduction**
 
 The Quantitative Research Methods Group (QMRG) is excited to announce a
@@ -21,10 +23,10 @@ maps, or another visualisation that could serve as the group's logo.
 Feel free to reach out with questions via email:
 [qmrg.rgs.ibg@gmail.com](qmrg.rgs.ibg@gmail.com).
 
-The winner will be announced during this year’s QMRG Annual Group
+<!-- The winner will be announced during this year’s QMRG Annual Group
 Meeting at the RGS annual conference. The RGS-IBG Annual International
 Conference 2024 will take place in London and online, from the evening
-of Tuesday 27 August to Friday 30 August 2024.
+of Tuesday 27 August to Friday 30 August 2024. -->
 
 **Competition Rules**
 
@@ -35,7 +37,7 @@ geography.
 reproducible code such as R or Python (no limitation on programming
 languages).
 
-• *Deadline* : All submissions must be received by July 31st, 2024
+• *Deadline* : Please check back later
 
 **Evaluation Criteria** Submissions will be evaluated by the committee
 members of the RGS Quantitative Research Methods Group based on:
