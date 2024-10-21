@@ -35,5 +35,3 @@ My dissertation therefore focused on two key areas: auto-generating the mapping 
 I really enjoyed the dissertation process: I never had to spend too long on one particular task, as mine incorporated a nice blend of GIS and fieldwork, before I commenced writing. Since graduating, I spent most of summer in Europe interrailing and am currently undertaking a work placement with RPS as a Wastewater Modeller, which makes use of the GIS skills I developed during my dissertation.
 
 <img src="/images/dominic_dakin.jpg" alt="Dominic Dakin" width="400"/>
-
-
