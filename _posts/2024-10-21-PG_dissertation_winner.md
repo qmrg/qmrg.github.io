@@ -14,7 +14,7 @@ We also want to give an honourable mention to **Daniela Mariño Castro** for her
 
 All presentations showcased exciting and innovative methods on important and timely topics, proving how bright the future of quantitative geography is. The QMRG committee and session organisers want to thank all the presenters for their work and contributions to the session.
 
-<img src="/images/ecr_2024.jpg" alt="..." width="400"/>
+<img src="/images/ecr_2024.jpg" alt="..." width="600"/>
 
 <small><span style="color:grey">Figure 1. From Left to Right: Jade Zhou, Daniela Mariño Castro, Ruth Neville, Matt Mason, Maria Wood, Claude Lynch, Thomas Murat</span></small>
 
