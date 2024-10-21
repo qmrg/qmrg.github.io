@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "QMRG ECR Session at the Royal Geographical Society (RGS) Conference"
-date: 2024-10-22
+date: 2024-10-21
 ---
 
 The QMRG Committee of the Royal Geographical Society (RGS) organised a session for early-career quantitative geographers at this years RGS Annual Conference. The session was organised the PGR reps of the committee, Ruth Neville and Yue Li, and brought together a group of PhD researchers to showcase new and emerging work in the field of quantitative geography. The session consisted of four presentations from Matt Mason, Daniela Marino Castro, Jade Zhao and the CASA City Modelling Lab (made up of Claude Lynch, Maria Wood, and Thomas Murat). 
