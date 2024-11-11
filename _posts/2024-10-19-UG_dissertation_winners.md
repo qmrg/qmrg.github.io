@@ -6,9 +6,9 @@ date: 2024-10-19
 
 **2024 Winners of our [Undergraduate Dissertation Prize](https://qmrg.github.io/dissertation_prize)**
 
-- **Sophie Pretorius**, Durham University - prize in Human Geography for their dissertation *Autogenerating Orienteering Maps*.
+- **Sophie Pretorius**, Durham University - prize in Human Geography for their dissertation *A legacy of Apartheid?’: A GIS - based multi-criteria decision analysis (MCDA) into relative social vulnerability within Cape Town, South Africa*.
 
-- **Dominic Dakin**, University of Cambridge - prize in Physical Geography for *A legacy of Apartheid?’: A GIS - based multi-criteria decision analysis (MCDA) into relative social vulnerability within Cape Town, South Africa*.
+- **Dominic Dakin**, University of Cambridge - prize in Physical Geography for *Autogenerating orienteering maps: To what extent can remote sensing data be used to map forest vegetation density and topography without any field surveying?*.
  
 **Sophie Pretorius**
 
