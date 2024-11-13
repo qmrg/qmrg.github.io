@@ -21,7 +21,7 @@ The current committee of QMRG is:
 
 **Social Media/Web Officer**: [Elisabetta Pietrostefani (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/elisabetta-pietrostefani/), [Ruth Neville (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
 
-**Postgraduate Representatives**: TBC 
+**Postgraduate Representatives**: [Matt Mason (University of Liverpool)](https://www.liverpool.ac.uk/geographic-data-science/our-people/), Fangyuan Li 
 
 You can read more about the [history of QMRG](https://qmrg.github.io/history_of_qmrg) and [previous incumbents](https://qmrg.github.io/past_committee).
 
