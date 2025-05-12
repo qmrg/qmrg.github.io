@@ -10,7 +10,7 @@ Mark has kindly shared a few words about their work and experience of the award.
 
 <img src="/images/mark_green.png" alt="..." width="600"/>
 
-*I was shocked to have learned that I was awarded the Royal Geographical Society’s 2025 Back Award. I had no idea that I had been, secretly, nominated by QMRG. It truly is humbling to experience the kindness of my peers who consider my work to be worthy of such an award. It isn’t how I see myself or what I do.* <
+*I was shocked to have learned that I was awarded the Royal Geographical Society’s 2025 Back Award. I had no idea that I had been, secretly, nominated by QMRG. It truly is humbling to experience the kindness of my peers who consider my work to be worthy of such an award. It isn’t how I see myself or what I do.* 
 
 *The Back Award is for “applied or scientific geographical studies which make an outstanding contribution to the development of national or international public policy.” It speaks to how I see my career – impact led research. I have been fortunate to be involved in a range of small and large policy initiatives – from using buses to help make COVID-19 vaccines accessible in Liverpool, to supporting the implementation and evaluation of lateral flow testing during the pandemic.
 Much of this work has been enabled by generating actionable insights from data. This might be creating a new small area dataset that addresses an evidence gap or helping with the analysis of the impacts of a new policy. However, it isn’t always enough to just build a data product or undertake a clever piece of analysis – finding the right narrative to tell a story around your data can be far more powerful at acquiring interest or getting people to notice. This can be tricky to do.
