@@ -8,6 +8,7 @@ We are pleased to announce that QMRG nominee **Professor Mark Green** of the **G
 
 Mark has kindly shared a few words about their work and experience of the award. 
 
+<img src="/images/mark_green.png" alt="..." width="600"/>
 
 *I was shocked to have learned that I was awarded the Royal Geographical Society’s 2025 Back Award. I had no idea that I had been, secretly, nominated by QMRG. It truly is humbling to experience the kindness of my peers who consider my work to be worthy of such an award. It isn’t how I see myself or what I do.* <
 
