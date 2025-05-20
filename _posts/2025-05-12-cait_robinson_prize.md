@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dr Caitlin Robinson Awarded Gill Memorial Award"
-date: 2025-05-12
+date: 2025-05-20
 ---
 
 We are pleased to announce that QMRG nominee **Dr Caitlin Robinson** of the **University of Bristol**, has been award the **2025 Gill Memorial Award** by the **Royal Geographical Society (RGS).** The award recognises exceptional early career research with a remarkable track record of achievement.
