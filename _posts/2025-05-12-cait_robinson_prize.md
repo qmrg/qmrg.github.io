@@ -8,7 +8,7 @@ We are pleased to announce that QMRG nominee **Dr Caitlin Robinson** of the **Un
 
 Cait has kindly shared a few words about their work and experience of the award. 
 
-<img src="/images/cait_robinson.png" alt="..." width="600"/>
+<img src="/images/cait_robinson.jpeg" alt="..." width="600"/>
 
 __Can you tell us about your main contributions to research and broad community?__
 
