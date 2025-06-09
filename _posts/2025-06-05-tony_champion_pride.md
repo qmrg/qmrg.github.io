@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emeritus Professor Tony Champion Awarded Honorary Fellowship of the RGS"
-date: 2025-05-20
+date: 2025-06-09
 ---
 
 We are pleased to announce that QMRG and [PopGeogRG](https://populationgeographies.com/#:~:text=PopGRG%20is%20one%20of%20the%20research%20groups%20of,and%20promoting%20population%20geography%20within%20and%20beyond%20Geography.) nominee **Emeritus Professor Tony Champion** of the **Newcastle University**, has been award **Honorary Fellowship of the Royal Geographical Society (RGS)** as part of the prestiguous annual medals to recognise excellence in geographical research and fielwork, teaching, and public engagement. 
