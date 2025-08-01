@@ -33,7 +33,7 @@ Ultimately, this position has provided me with the opportunity to continue worki
 
 
 ## How to Apply 
-Nominations for the available positions may include self-nominations and should be sent along with the name of a seconder (a current member of the committee) and a brief statement of suitability. Please send any nominations to QMRG secretary Qunshan Zhao (email: [Qunshan.Zhao@glasgow.ac.uk](Qunshan.Zhao@glasgow.ac.uk)) by **1st Septemer 2025**.
+Nominations for the available positions may include self-nominations and should be sent along with the name of a seconder (a current member of the committee) and a brief statement of suitability. Please send any nominations to QMRG secretary Qunshan Zhao (email: [Qunshan.Zhao@glasgow.ac.uk](Qunshan.Zhao@glasgow.ac.uk)) by **1st September 2025**.
 Please reach out to any of our committee members with questions!
 
 A full list of current committee positions and members can be viewed [here](https://qmrg.github.io/committee).
