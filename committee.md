@@ -17,7 +17,7 @@ The current committee of QMRG is:
 
 **Conferences Officer**: [Stephen Law (University College London)](https://www.ucl.ac.uk/bartlett/architecture/people/mphil-phd/stephen-law)
 
-**Dissertation Prize Officer**: [Bardia Marshoodi (University of Greenwich)](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/bardia-mashhoodi)
+**Dissertation Prize Officer**: [Bardia Mashhoodi (University of Greenwich)](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/bardia-mashhoodi)
 
 **Social Media/Web Officer**: [Elisabetta Pietrostefani (University of Liverpool)](https://www.liverpool.ac.uk/environmental-sciences/staff/elisabetta-pietrostefani/), [Ruth Neville (University College London)](https://www.ucl.ac.uk/bartlett/casa/people)
 
