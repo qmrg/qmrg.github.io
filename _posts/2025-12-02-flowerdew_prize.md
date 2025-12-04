@@ -10,7 +10,7 @@ At the 2025 RGS-IBG Annual Conference, the QMRG Committee of the Royal Geographi
 
 As part of this annual event, the committee was delighted to present the *Robin Flowerdew Prize for Best Postgraduate Paper*. The prize, named in memory of Professor Robin Flowerdew, celebrates his lasting contributions to quantitative geography and his support for the QMRG community. The prize is a £100 cash prize and seeks to recognise exciting and innovate work from emerging scholars. 
 
-We were pleased to present the 2024 Robin Flowerdew Prize to Tamilwai Kolowa from the Federal Institute for Population Research, for the presentation <i>“Is Germany experiencing urban or suburban growth? Contrasting three different urbanisation classifications.”</i>
+We were pleased to present the 2025 Robin Flowerdew Prize to Tamilwai Kolowa from the Federal Institute for Population Research, for the presentation <i>“Is Germany experiencing urban or suburban growth? Contrasting three different urbanisation classifications.”</i>
 
 The research offered a compelling exploration of how varying urban gradient classifications influence our understanding of population change in Germany between 2011 and 2022. Tamilwai’s work highlighted that while urban areas have consistently grown faster than suburban ones, the degree and spatial distribution of this growth depend heavily on the chosen classification. The study provides valuable insights for refining global urban gradient frameworks and enhancing cross-national analyses of urban and suburban dynamics. 
 
