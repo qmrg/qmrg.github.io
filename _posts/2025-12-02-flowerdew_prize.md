@@ -19,7 +19,7 @@ The research offered a compelling exploration of how varying urban gradient clas
 - X (Twitter): [@DLR_en](https://x.com/DLR_en)  
 - Bluesky: [tamilwhy.bsky.social](https://tamilwhy.bsky.social)
 
-![Tamiwai Kolowa presenting](images/figure2.jpg)
+![Tamiwai Kolowa presenting](/images/figure2.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ The proposed framework combines mobile phone mobility data, COVID-19 surveillanc
 - Email: [E.Emiliano-Beltran-Alipio@liverpool.ac.uk](mailto:E.Emiliano-Beltran-Alipio@liverpool.ac.uk)  
 - LinkedIn: [Emiliano Beltran Alipio](https://www.linkedin.com/in/emilianobeltran/)
 
-![Emilinao Beltran presenting](images/figure1.jpg)
+![Emilinao Beltran presenting](/images/figure1.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ The presentation outlined a conceptual model connecting housing development, tra
 - LinkedIn: [Matt Whearty](https://uk.linkedin.com/in/matthew-whearty-4275bb113)  
 - X (Twitter): [@MattWhearty](https://x.com/MattWhearty)
 
-![Matt Whearty presenting](images/figure3.jpg)
+![Matt Whearty presenting](/images/figure3.jpg)
 ---
 
 ### Rui Wang (King’s College London)
@@ -68,7 +68,7 @@ SHAP-based interpretability analysis revealed that building density, pedestrian 
 - Email: [rui.12.wang@kcl.ac.uk](mailto:rui.12.wang@kcl.ac.uk)  
 - X (Twitter): [@webber990724](https://x.com/webber990724)
 
-![Rui Wang presenting](images/figure4.jpg)
+![Rui Wang presenting](/images/figure4.jpg)
 
 ---
 
@@ -83,7 +83,7 @@ By combining these insights with Airbnb and housing transaction data, her study 
 - Email: [fangyuan.li@kcl.ac.uk](mailto:fangyuan.li@kcl.ac.uk)  
 - X (Twitter): [@fangyuan_li225](https://x.com/fangyuan_li225)
 
-![Fangyuan Li](images/figure5.jpg)
+![Fangyuan Li](/images/figure5.jpg)
 
 ---
 
