@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Undergraduate Dissertation Prize Winners"
-date: 2024-10-19
+date: 2026-04-08
 ---
 
 **2025 Winner of our [Undergraduate Dissertation Prize](https://qmrg.github.io/dissertation_prize)**
