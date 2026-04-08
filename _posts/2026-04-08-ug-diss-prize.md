@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Undergraduate Dissertation Prize Winners"
+title: "Undergraduate Dissertation Prize Winner 2025"
 date: 2026-04-08
 ---
 
