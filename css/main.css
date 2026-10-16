@@ -42,6 +42,10 @@ li li {
     font-size: 1em; /* stop nested lists compounding */
 }
 
+li p {
+    font-size: 1em; /* paragraphs inside list items already get the li size */
+}
+
 code, pre {
     font-family: 'Roboto Mono', 'Fira Mono', monospace;
 }
