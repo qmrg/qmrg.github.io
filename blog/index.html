@@ -2,10 +2,18 @@
 layout: default
 title: Blog
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+<h1>{{ page.title }}</h1>
+<p class="lede">News, calls, prize announcements and reports from the QMRG.</p>
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year in posts_by_year %}
+<h2 class="year">{{ year.name }}</h2>
+<ul class="posts">
+  {% for post in year.items %}
+  <li>
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b" }}</time>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}
