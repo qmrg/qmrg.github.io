@@ -1,61 +1,55 @@
 ---
 layout: post
-title: "QMRG annual report August 2023 to 2024"
-date: 2024-09-25
+title: "QMRG annual report 2025-26"
+date: 2026-10-15
 editor_options: 
   markdown: 
     wrap: sentence
 ---
 
-**Summary**
+*QMRG committee, September 2026:* Francisco Rowe (Chair); Weiming Huang (Secretary); Alessia Calafiore (Treasurer); Trivik Verma (Diversity and Inclusion Officer); Stephen Law (Conferences Officer); Bardia Mashhoodi (Dissertation Prize Officer); Elisabetta Pietrostefani and Ruth Neville (Social Media/Web Officers); Matt Mason and Fangyuan Li (Postgraduate Representatives).
 
-The report records the activities of QMRG from August 2023 to August 2024.
-It details developments relating to staffing, prizes, sponsorship and networking that have taken place over the reporting period.
+## Summary
 
-**Staﬀing**
+During 2025-26, QMRG renewed two committee roles, secured workshop funding, recognised research and undergraduate dissertations through prizes, and organised and sponsored sessions at the RGS-IBG Annual International Conference.
+The group also held an evening social to support informal networking across the quantitative human geography community.
 
--   Drs.
-    Alessia Califiore and Stephen Law will placed to take over as Treasurer and Conference Officer, respectively, from Dr. Levi John Wolf and Prof. Emmanouil Tranos.
+## Staffing
 
--   Dr. Elisabetta Pietrostefani has taken over as the QMRG Web & Social Media Manager from Dr. Mark Green.
+-   Yijing Li and Qunshan Zhao stepped down from the committee.
+    Weiming Huang succeeded Qunshan as Secretary, and Bardia Mashhoodi succeeded Yijing as Dissertation Prize Officer.
 
--   Drs.
-    Alessia Califiore and Elisabetta Pietrostefani will be on maternity leave during the rest of 2024 returning in the second half of 2025.
-    Yijing will provide support from Sep to Dec 2024 and Francisco Rowe and Qunshan Zhao thereafter for the Treasurer role.
-    Ruth will provide cover for the Web & Social Media Manager role.
+-   Alessia Calafiore and Elisabetta Pietrostefani returned from maternity leave and resumed their committee roles.
 
--   We issued a call for the recruitment of new PGR representatives.
+-   Committee succession will be staggered over the coming year.
+    Alessia Calafiore, Elisabetta Pietrostefani and Stephen Law expect to serve for one further year before stepping down.
 
-**Prizes**
+-   QMRG has issued a [call for new Postgraduate Representatives](https://qmrg.github.io/blog/2026/10/16/advertpgr) to replace Matt Mason and Fangyuan Li.
 
--   We awarded two winners with the 2023 undergraduate dissertation prize:
+## Grant activity
 
-    -   Matthew Lam, University College London‐ prize in Human Geography for their dissertation “Exploring the casual impact of mobile vaccination units in southwest London”.
+-   QMRG was awarded funding for a grant led by Dr Weiming Huang in collaboration with Prof. Francisco Rowe to host a workshop on Geospatial Foundational Models at the University of Leeds in October 2025.
 
-    -   Jacobus Petersen, University of Oxford ‐ prize in Physical Geography for “Tropical pollination networks in their physical environment a study into the influence of plant functional traits on the resilience of a crucial ecosystem service”.
+## Prizes
 
--   The RGS announced that [Daniel Arribas-Bel](<https://darribas.org/>) was awarded the [Taylor & Francis Award](<https://www.rgs.org/about-us/our-work/medals-awards-and-prizes/society-medals-and-awards/2024-awards>) for “excellence in the practice and promotion of teaching in higher education”.
+-   QMRG nominated Dr Filip Biljecki, who received the 2026 Gill Memorial Award (human).
 
--    We announced a call for our annual prize for the Best Undergraduate Dissertation in June 2024.
+-   QMRG awarded its 2025 undergraduate dissertation prize to two winners.
 
-**Sponsorship**
+## Sponsorship
 
--   QMRG is leading the development of a digital version of CATMOG.
-    The idea is to develop a new set of CATMOG publications in a digital format using computational notebooks and publish these publications as a special issue in the journal REGION.
-    The submission deadline is August 30th, 2024 with a publication date of Dec. 20th 2024.
+QMRG organised and sponsored the following sessions at the RGS-IBG Annual International Conference, held on 2-4 September 2026.
+The programme covered spatial inequality, geospatial artificial intelligence, early-career research and methodological questions about geographical data.
 
--   QMRG sponsored GIScience 2023 in September and with GIScRG and RGS funding to sup‐ port travel and conference registration for disadvantaged researchers.
+-   **Wednesday 2 September:** Mapping Inequality Critically; Geospatial Artificial Intelligence methods and applications (1); Geospatial Artificial Intelligence methods and applications (2): Workshop.
 
--   QMRG provided sponsorship for GISRUK supporting travel and conference registration for more disadvantaged researchers.
+-   **Thursday 3 September:** QMRG Early Career Session (1); QMRG Early Career Session (2); QMRG Annual Lecture in collaboration with *The Geographical Journal*.
 
--   QMRG is sponsoring two sessions at the annual RGS conference, including one regular and one ECR session.
+-   **Friday 4 September:** No Space Like Home? Space inequalities, property development and urban injustice (1); Gender Inequalities: What Geography Data Can (and Cannot) Tell Us; No Space Like Home? Space inequalities, property development and urban injustice (2); Inequalities from Space.
 
-**Training**
+At the annual lecture, Jessica Espey spoke on "Whose Numbers Count? The Contested Politics of Data in National Policy and Planning".
 
--   QMRG hosted a training workshop at GISRUK, delivered by [Dr.
-    Elisabetta Pietrostefani](<https://www.pietrostefani.com/>).
-    This was an introductory session on the use and application of satellite imagery for spatial analysis using R: [Navigating the Night](<https://pietrostefani.github.io/navigatingnight/>).
+## Networking
 
-**Networking**
-
--   QMRG organised an event as part of the annual RGS conference together the quantitative human geography community and provide an opportunity for informal networking and community building.
+-   QMRG organised an evening social at The Hoop & Toy in Kensington on Thursday 3 September 2026, following the annual lecture.
+    Held alongside the RGS-IBG conference, the event brought together the quantitative human geography community for informal networking and community building.
