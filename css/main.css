@@ -2,46 +2,61 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Fira+Mono&display=swap");
 
 body {
-    font-family:'Roboto', 'Roboto+Mono';
+    font-family: 'Roboto', sans-serif;
     margin: 60px auto;
     width: 70%;
 }
+
 nav ul, footer ul {
-    font-family:'Roboto', 'Roboto+Mono';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-size: 1em;
 }
+
 a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
-    font-family:'Roboto', 'Roboto+Mono';
 }
-p {
+
+p, li {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
+
+li li {
+    font-size: 1em; /* stop nested lists compounding */
+}
+
+code, pre {
+    font-family: 'Roboto Mono', 'Fira Mono', monospace;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+    font-size: 1em; /* ul.posts already sets 1.5em */
 }
